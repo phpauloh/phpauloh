@@ -5,3 +5,7 @@
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=phpauloh&theme=merko&show_icons=true)
 
+My Skills
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</div>
