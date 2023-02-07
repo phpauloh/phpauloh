@@ -3,7 +3,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=phpauloh&bg_color=000000&color=ffffff&line=79f910&point=22872d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=phpauloh&theme=merko&show_icons=true)
 
 <h3>My Skills</h3>
 <div style="display: inline_block">
